@@ -9,7 +9,7 @@ This package allows you to include relationship columns into Laravel Nova search
 ## Installation
 
 ```
-composer require titasgailius/search-relations
+composer require pouya-pour/nova-search-relations
 ```
 
 Next, add `Titasgailius\SearchRelations\SearchesRelations` trait to your base resource class `App\Nova\Resource`
