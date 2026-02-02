@@ -1,6 +1,6 @@
 {
-    "name": "titasgailius/search-relations",
-    "description": "A Laravel Nova tool.",
+    "name": "pouyapourmohamad",
+    "description": "A Laravel Nova tool. fork from nova-search-relations",
     "keywords": [
         "laravel",
         "nova",
@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=8.2.0"
     },
     "autoload": {
         "psr-4": {
